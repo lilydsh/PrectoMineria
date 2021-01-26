@@ -1,1 +1,1 @@
-# PrectoMineria
+# ProyectoMineria
